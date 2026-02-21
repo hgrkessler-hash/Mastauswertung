@@ -1,9 +1,7 @@
-
-flask
-gunicorn
-psycopg2-binary
-werkzeug
-reportlab
-pandas
-dropbox
-flask gunicorn psycopg2-binary werkzeug reportlab pandas dropbox
+flask>=3.0.0
+gunicorn>=22.0.0
+psycopg2-binary>=2.9.0
+werkzeug>=3.0.0
+reportlab>=4.0.0
+pandas>=2.0.0
+dropbox>=12.0.0
