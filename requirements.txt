@@ -6,3 +6,4 @@ werkzeug
 reportlab
 pandas
 dropbox
+flask gunicorn psycopg2-binary werkzeug reportlab pandas dropbox
